@@ -34,8 +34,8 @@ Controllers: Controllers synchronize and control the movement of different actua
 Procedure:
 
 1) Place the given object on table (Workspace).
-2) Use 2 Jaw Gripper to pick the object from P1 (Pick Point). 
-3)Move to poin1 using move J
+2) Use 2 Jaw Gripper to pick the object from P1 (Pick Point).  
+3) Move to poin1 using move J
 ............
 
 ## Program :
