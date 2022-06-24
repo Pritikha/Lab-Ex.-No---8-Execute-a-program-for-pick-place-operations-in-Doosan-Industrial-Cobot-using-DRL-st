@@ -42,6 +42,9 @@ Procedure:
 
 ![175454530-6bf50d16-5541-4add-a617-3bcdc03e51ea](https://user-images.githubusercontent.com/78891075/175455454-068818b8-d369-4a70-ba4c-69849153a667.jpg)
 
+![image](https://user-images.githubusercontent.com/78891075/175459823-bb3d244f-3d12-4a6f-958b-2400831106d5.png)
+
+
 ## Output:
 ![175454442-e723be1f-1c43-4c07-97d7-835787d1e83d](https://user-images.githubusercontent.com/78891075/175455486-992a27ee-fbd4-40a2-ac68-e3b1f45c6dce.jpg)
 
